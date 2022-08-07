@@ -1,0 +1,10 @@
+BUG1: In the country dropdown Germany spelling incorrect as "Germainy"
+
+BUG2: When user select specific model then he unable to find model as per his search, he get all the model.
+
+BUG3: After submission of personal data user get 'page not found' page.
+
+BUG4: After submission the form the time taken for page load.
+
+NOTE: Sometimes website not working in cypress so please try to reload test cases.
+    
